@@ -51,5 +51,5 @@ Funcionalidades Futuras:
 3. Registro de Viajes: Almacenar viajes en un archivo de registro.
 
 
-Autores
+AUTORES: 
 Laura Daniela Velasquez Marin y William Fabian Parra. Desarrolladores principales y creadores del proyecto.
