@@ -45,10 +45,10 @@ Estructura del Proyecto
 |── README.md                            // Documento del proyecto  
 |── .gitignore                           // Archivos ignorados por Git  
 
-Funcionalidades Futuras
-Planetas: Añadir más planetas con descripciones y distancias desde la tierra. 
-Más Eventos: Simulación de recursos adicionales.
-Registro de Viajes: Almacenar viajes en un archivo de registro.
+Funcionalidades Futuras: 
+1. Planetas: Añadir más planetas con descripciones y distancias desde la tierra. 
+2. Más Eventos: Simulación de recursos adicionales.
+3. Registro de Viajes: Almacenar viajes en un archivo de registro.
 
 
 Autores
