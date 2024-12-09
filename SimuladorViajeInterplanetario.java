@@ -148,7 +148,7 @@ public class SimuladorViajeInterplanetario {
 
         switch (evento) {
             case 0 -> {
-                System.out.println("ATENCION: Encuentro con aliens curiosos. Que deseas hacer: ");
+                System.out.println("ATENCION: Encuentro con aliens curiosos. Que deseas hacer:");
                 System.out.println("1. Ignorarlos y continuar el viaje.");
                 System.out.println("2. Intercambiar memes y obtener frutas intergalacticas.");
                 int opcion = sc.nextInt();
