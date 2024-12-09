@@ -1,13 +1,13 @@
-Simulador de Viaje Interplanetario
+Simulador de Viaje Interplanetario - 
 Proyecto en Java que simula un viaje interplanetario, permitiendo al usuario seleccionar planetas, naves espaciales y enfrentarse a eventos aleatorios durante el trayecto. El sistema calcula la duración del viaje, controla recursos y proporciona una experiencia interactiva desde la consola.
 
 Características Principales:
 1. Selección de Planeta de Destino: El usuario puede elegir entre Marte, Jupiter y Saturno. Se muestran descripciones detalladas y distancias en millones de km desde la Tierra.
 
 2. Selección de Nave Espacial: El usuario selecciona una nave con diferentes capacidades:
-Halcón Milenario: Capacidad: 50 pasajeros, Velocidad Máxima: 68,000 km/h.
-SpaceX Dragon: Capacidad: 60 pasajeros, Velocidad Máxima: 28,000 km/h.
-Apollo 11: Capacidad: 40 pasajeros, Velocidad Máxima: 39,000 km/h.
+Halcón Milenario: Capacidad: 50 pasajeros, Velocidad Máxima: 68,000 km/h. |
+SpaceX Dragon: Capacidad: 60 pasajeros, Velocidad Máxima: 28,000 km/h. |
+Apollo 11: Capacidad: 40 pasajeros, Velocidad Máxima: 39,000 km/h. |
 
 3. Gestión de Recursos:
 Combustible Total: Calculado según la distancia.
@@ -41,9 +41,9 @@ Instalación y Uso
 Estructura del Proyecto
 
 /SimuladorViajeInterplanetario
-|── SimuladorViajeInterplanetario.java  // Código fuente principal
-|── README.md                            // Documento del proyecto
-|── .gitignore                           // Archivos ignorados por Git
+|── SimuladorViajeInterplanetario.java  // Código fuente principal  
+|── README.md                            // Documento del proyecto  
+|── .gitignore                           // Archivos ignorados por Git  
 
 Funcionalidades Futuras
 Planetas: Añadir más planetas con descripciones y distancias desde la tierra. 
